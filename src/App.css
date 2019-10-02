@@ -13,5 +13,6 @@
 .item-details-button:hover{
   outline: none;
   color: blueviolet;
-  background-color: white
+  background-color: white; 
+
 }
