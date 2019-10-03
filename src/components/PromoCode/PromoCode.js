@@ -20,7 +20,7 @@ class PromoCodeDiscount extends Component {
         return (
             <div>
                 <Button
-                    className="promo-code-button"
+                    className="promo-code-button btn-secondary"
                     bsStyle="link"
                     onClick={() => this.setState({ open: !this.state.open })}
                 >
